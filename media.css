@@ -1,0 +1,587 @@
+@media only screen and (max-width: 375px) 
+{
+    .box{
+        width: 375px; 
+        height: 200px; 
+        color: #fff;
+        display: flex;
+        padding-left: 20px;
+        padding-top: 20px;
+      }
+        
+      .box p{
+      width: 100px;
+      height: 20px;
+      padding-left: 10px;
+      }
+      
+       .menu{
+       padding-left: 53%;
+       display: flex;
+       }
+
+       .box i{
+        color: #A259FF;
+        
+    }
+    
+    .box ul{
+        display: none;
+    }
+    
+    .box ul li{
+        display: none;
+    }
+    
+    .dress{
+        display: none;
+    }
+  
+  .box1{
+      display: none;
+  }
+  
+  
+  .Herosection{
+     display: none;
+  }
+  
+  .Herosection h1{
+    display: none;
+  }
+  
+  .Herosection p{
+   display: none;
+  }
+  
+  .box2{
+  display: none;
+  }
+  
+  
+  .cub{
+      display: none;
+  }
+   
+  .cub1 p{
+      display: none;
+  }
+  
+  .cub2 p{
+      display: none;
+  }
+  
+  .cub2 span{
+      display: none;
+  }
+  
+  .cub3 p{
+      display: none;
+  }
+  
+  .cub3 span{
+      display: none;
+  }
+  
+  .img{
+   display: none;
+  }
+  
+  .astronot2{
+    display:none;
+  }
+
+  .astronot{
+    display:none
+  }
+
+  .img h3{
+     display: none;
+  }
+  
+  .img p{
+      display: none;
+  }  
+}
+
+.box3 h2{
+    padding-left: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    padding-bottom: 1%;
+}
+
+
+.box3 p{
+    padding-left: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    padding-bottom: 1%;
+}
+
+
+.foto {
+    width: 330px;
+    height: 330px;
+    padding-left: 7%;
+    color: #fff;
+    display: inline-block;
+    display: flex;
+    padding-bottom: 1%;
+}
+
+.avatar3{
+ padding-left: 10%;
+ display: inline-block;
+ display: flex;
+}
+
+
+.cat2{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.avatar4{
+ padding-left: 10%;
+ color: #fff;   
+}
+
+.bos{
+ padding: 30px;
+ background-color: #A259FF;
+ border-radius: 20px;
+ color: #fff;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.foto2{
+display: none;
+}
+
+.avatar5{
+ display:none;
+}
+
+ .avatar6{
+    display: none;
+ }   
+
+.foto3 img{
+  display: none;
+}
+
+.avatar7{
+display: none; 
+}
+
+.avatar8{
+display: none;
+}
+
+.rankings h2{
+    padding-left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    padding-bottom: 1%;
+}
+
+.rankings p{
+    padding-left:10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    padding-bottom: 1%;  
+}
+
+.rocket2{
+    display: flex;
+    width:200px;   
+    height:60px;
+    padding: 0px  10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    color: #A259FF;
+    margin-left:22%;
+}
+
+.creatos2{
+display: none;
+}
+
+.creatos img{
+  width:150px ;
+  height:150px;  
+}
+
+.creatos2 img{
+display: none;
+}
+
+.creatos3{
+display: none; 
+}
+
+.creatos3 img{
+display: none;
+}  
+
+.creatos4{
+display: none;
+}
+
+.creatos4 img{
+display: none;
+ }  
+
+.cat3{
+ padding-left: 5%;
+}
+
+.astronot3{
+padding-left: 5%;
+}
+
+.cat4{
+padding-left: 5%;
+}
+
+.reading{
+ padding-left: 5%;
+ color: #fff;   
+}
+
+.reading1{
+padding-left:6%;
+color: #fff; 
+}
+
+.reading2{
+padding-left:6%;
+color: #fff;   
+}
+
+.reading3{
+padding-left:6%;
+color: #fff;     
+}
+
+.reading4{
+    display: none;  
+  }
+
+.reading5{
+  display: none;  
+}
+
+.reading6{
+    display: none;  
+  }
+
+.reading7{
+    display: none;  
+  }
+
+.reading8{
+    display: none;  
+  }
+
+.reading9{
+    display: none;  
+  }
+
+
+  .reading10{
+    display: none;  
+  }
+
+  .reading11{
+    display: none;  
+  }
+
+  .reading12{
+    display: none;  
+  }
+
+  .reading13{
+    display: none;  
+  }
+
+  .reading14{
+    display: none;  
+  }
+
+  .reading15{
+    display: none;  
+  }
+
+  .browse h2{
+    padding-left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    padding-top: 1%;
+}
+
+.categories img{
+    width: 22%;
+    height: 22%;
+}
+
+.categories{
+   padding-left: 35%; 
+}
+
+.categories1{
+   padding-left: 35%;     
+}
+
+.categories1 img{
+width: 22%;
+height: 22%;   
+}
+
+.categories2 img{
+    width: 22%;
+    height: 22%;  
+}
+
+.categories2{
+    padding-left: 35%;   
+}
+
+.categories3{
+    padding-left: 35%;    
+}
+
+.categories3 img{
+width: 22%;
+height: 22%; 
+}
+
+.discover{
+  padding-left: 10%;
+  color: #fff;
+  }
+  
+  .discover h2{
+  padding-top: 1%;
+  }
+  
+  .discover p{
+  padding-top: 1%;
+  }
+  
+  .eyes{
+      display: flex;
+      width:200px;   
+      height:60px;
+      padding: 0px  10px;
+      align-items: center;
+      justify-content: center;
+      border-radius: 20px;
+      color: #A259FF;
+      margin-left: 50%;   
+  }
+  
+  
+  .sky{
+   padding-left: 12%;   
+  }
+  
+  
+  .names{
+      display: flex;
+      color: #fff;
+  }
+  
+  .ship1{
+   padding-left: 12%;   
+  }
+  
+.cloud{
+  display: none;
+}
+
+  .cloud1{
+   display: none;   
+  }
+  
+.astronot4{
+  display: none;
+}
+
+  .astronot5{
+  display: none;  
+  }
+
+  .works{
+    padding-left: 17%;
+    color: #fff;    
+    }
+    
+    .works h2{
+    padding-top: 1%;
+    }
+    
+    .works p{
+    padding-top: 1%;
+    }
+    
+    .cricle{
+     padding-left: 10%; 
+    }
+    
+   .card{
+    width: 30%;
+    height: 30%;
+   }
+
+    .music{
+      width: 30%;
+      height: 30%; 
+    }
+    
+    .cart{
+      width: 30%;
+      height: 30%;
+    }
+
+    .works1{
+      display: block;
+      color: #fff;  
+    }
+    
+    .wallet{
+      padding-left: 1%;  
+    }
+    
+    .collection{
+     padding-left: 3%;   
+    }
+    
+    .earning{
+     padding-left: 1%;   
+    }
+     
+     .digest1{
+      display: block;
+     padding-left: 5%;
+     padding-top: 1%;    
+     }
+     
+    .digest1 img{
+     width: 80%;
+     height: 35%; 
+    }
+
+     .digest2{   
+      padding-top: 2%;  
+      padding-left: 5%;
+      color: #fff; 
+     }
+     
+     .digest2 h2{
+      padding-top: 2%;   
+     }
+     
+     .digest2 p{
+      padding-top: 2%; 
+      padding-bottom: 30%;  
+     }
+
+     .buton1{
+     padding: 2%;
+     border-radius: 8%;
+      background-color: #fff;
+      color: black;
+     }
+     
+     .butonn{
+      padding-top: 18%;
+     }
+
+     .buton2{
+     padding-top: 7%;
+     padding-bottom: 7%;
+     padding-left: 20%;
+     padding-right: 20%;
+     border-radius: 8%;
+      background-color: #A259FF;
+      color: #fff;
+      margin-left: 2%;
+     }
+
+     .theend{
+      display: block;  
+      padding-right: 20%;  
+      }
+      
+      .theend1{
+          color: #fff;
+          padding-right:20%;
+          padding-top: 1%; 
+      }
+      
+      .theend1 i{
+          color: #A259FF;
+      }
+      
+      .theend1 ul li{
+       padding-top: 2%;
+       padding-bottom: 2%;
+      }
+      
+      .exploree{
+          color: #fff;
+          padding-right: 20%;
+          padding-top: 1%;  
+      }
+      
+      .exploree ul li{
+      padding-top: 2%;    
+      }
+      
+      .weekly{
+          padding-top: 2%;  
+          padding-right: 2%;
+          color: #fff; 
+         }
+         
+         .weekly h2{
+          padding-top: 2%;   
+         }
+         
+         .weekly p{
+          padding-top: 2%; 
+          padding-bottom: 5%;  
+      }
+      
+      .buton3{
+       padding: 2%;
+       color: black;
+       background-color: #fff; 
+      }
+
+      .buton4{
+        padding: 2%;
+        color: #fff; 
+        background-color: #A259FF;
+       }
+
+      .end p{
+       color: #fff;
+       padding-left: 10%; 
+       padding-top: 5%;  
+      }
